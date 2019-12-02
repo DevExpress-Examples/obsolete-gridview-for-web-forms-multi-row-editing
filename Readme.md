@@ -15,7 +15,7 @@
 <p>To preserve the changes made, I saved editor values to the List<object> and then used these values by setting the UpdateParameters of the ASPxGridView's DataSource. Finally, to obtain editors and their values, I used the <a href="http://www.devexpress.com/Help/Content.aspx?help=ASPxGridView&document=DevExpressWebASPxGridViewASPxGridView_FindRowCellTemplateControltopic.htm"><u>ASPxGridView.FindRowCellTemplateControl Method</u></a>.</p>
 <p><strong>See Also:</strong><br> <a href="https://www.devexpress.com/Support/Center/p/E1318">How to implement the multi-edit functionality with a multi-page grid that is bound dynamically</a><br> <a href="https://www.devexpress.com/Support/Center/p/E1468">Custom client-side logic implementation in the grid with multi-row editing</a><br> <a href="https://www.devexpress.com/Support/Center/p/E2026">How to edit multiple selected rows in a single Edit Form</a><br> <a href="https://www.devexpress.com/Support/Center/p/E1447">How to force the grid to stay in Edit mode</a><br> <a href="https://www.devexpress.com/Support/Center/p/E2333">How to perform ASPxGridView instant updating using different editors in the DataItem template</a><u></u></p>
 <p><u></u>Question:<u> </u><a href="https://www.devexpress.com/Support/Center/p/Q311992">E324 - How to calculate the ASPxGridView group summaries on the client side</a></p>
-<p><br><strong>MVC:</strong><br><a href="https://www.devexpress.com/Support/Center/p/E324">How to implement the multi-row editing feature in the ASPxGridView</a></p>
+<p><br><strong>MVC:</strong><br><a href="https://www.devexpress.com/Support/Center/p/E4236">How to implement the multi-row editing feature in the ASPxGridView</a></p>
 
 <br/>
 
