@@ -1,9 +1,9 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Class1.cs](./CS/TestGridViewSite81/App_Code/Class1.cs) (VB: [Class1.vb](./VB/TestGridViewSite81/App_Code/Class1.vb))
-* [Default.aspx](./CS/TestGridViewSite81/Default.aspx) (VB: [Default.aspx](./VB/TestGridViewSite81/Default.aspx))
-* [Default.aspx.cs](./CS/TestGridViewSite81/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/TestGridViewSite81/Default.aspx.vb))
+* [Record.cs](./CS/Record.cs) (VB: [Record.vb](./VB/Record.vb))
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # How to implement the multi-row editing feature in the ASPxGridView
 <!-- run online -->
